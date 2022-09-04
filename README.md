@@ -2,7 +2,7 @@
 - 👀 I’m interested in 😴😴😴
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me z
+- 📫 How to reach me https://www.linkedin.com/in/ishika-adhikari-48222924b/
 
 <!---
 ishi2611/ishi2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
