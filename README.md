@@ -10,7 +10,9 @@
         and practical implementation.  
   - 💞️ **I’m looking to collaborate on impactful AI and Web Development projects** 🌐, where I can leverage my technical expertise to drive innovation and success. I am 
         particularly interested in contributing to teams focused on research, development, and deployment of AI solutions that make a difference.  
-  - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ishika-adhikari-48222924b/)  
+  - 📫 **How to reach me**:  
+         - **Email**: [ishi.adhikari20@gmail.com](mailto:ishi.adhikari20@gmail.com)  
+         - **LinkedIn**: [Ishika Adhikari](https://www.linkedin.com/in/ishika-adhikari-48222924b/)
 
 📈 **What I bring to the table**:  
 - **Innovative Thinking** 💡: I thrive on turning complex challenges into simple, efficient AI solutions.  
